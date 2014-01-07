@@ -9,6 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface MainViewController : UIViewController <UITextFieldDelegate>
+//test
+
 @property (weak, nonatomic) IBOutlet UITextField *idtext;
 @property (weak, nonatomic) IBOutlet UITextField *nametext;
 @property (weak, nonatomic) IBOutlet UITextField *passwordtext;
